@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/djwalto/djwalto/master/DavidBanner.png)]
+![Header](https://raw.githubusercontent.com/djwalto/djwalto/master/DavidBanner.png)
 
 
 
