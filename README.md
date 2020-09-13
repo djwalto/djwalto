@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/djwalto/<OWNER>/<OWNER>/Dark KJI Technologies Animated Web Banner (1).png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/djwalto/djwalto/Dark KJI Technologies Animated Web Banner (1).png "Header")](https://some-url.dev/)
 
 
 ### Hi there 👋
