@@ -1,6 +1,4 @@
 [![Header](https://raw.githubusercontent.com/djwalto/djwalto/master/DavidBanner.png)]
-https://spark.adobe.com/post/i0DbCaustVE67/
-![David Walton Banner](https://spark.adobe.com/post/i0DbCaustVE67.png)
 
 
 
