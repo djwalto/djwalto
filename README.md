@@ -1,7 +1,7 @@
-[![Header](https://raw.githubusercontent.com/djwalto/djwalto/Dark_KJI_Technologies_Animated_Web_Banner_(1).png "Header")]
+[![Header](https://raw.githubusercontent.com/djwalto/djwalto/DavidBanner.png "Header")]
 
 
-### Hi there 👋
+
 
 <!--
 **djwalto/djwalto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
