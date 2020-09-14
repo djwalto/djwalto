@@ -2,7 +2,7 @@
 
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=djwalto&theme=dark&show_icons=true) 
 
-### You can find me on ![Twitter](http://i.imgur.com/wWzX9uB.png)[My Twitter Page](https://twitter.com/djwalto01) or on ![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)[My LinkedIn Page](https://www.linkedin.com/in/davidwaltonkc/)
+### You can find me on ![Twitter](http://i.imgur.com/wWzX9uB.png) [My Twitter Page](https://twitter.com/djwalto01) or on ![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png) [My LinkedIn Page](https://www.linkedin.com/in/davidwaltonkc/)
 <!--
 **djwalto/djwalto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
