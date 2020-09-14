@@ -4,7 +4,7 @@ You can find me on ![Twitter](http://i.imgur.com/wWzX9uB.png) at https://twitter
 
 
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=djwalto&theme=dark&show_icons=true) 
-![David's repos](https://github-readme-repo.vercel.app/api?username=djwalto&theme=dark&show_icons=true)
+![David's repos](https://github-readme-repocard.vercel.app/api?username=djwalto&theme=dark&show_icons=true)
 
 <!--
 **djwalto/djwalto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
