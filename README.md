@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/djwalto/djwalto/master/DavidBanner.png)
 
-### You can find me on ![Twitter](http://i.imgur.com/wWzX9uB.png https://twitter.com/djwalto01), or on ![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)https://www.linkedin.com/in/davidwaltonkc/.
+### You can find me on ![Twitter](http://i.imgur.com/wWzX9uB.png) at https://twitter.com/djwalto01, or over on ![LinkedIn] at (https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png) https://www.linkedin.com/in/davidwaltonkc/.
 
 
 
