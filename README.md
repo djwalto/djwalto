@@ -7,7 +7,7 @@ You can find me on ![Twitter](http://i.imgur.com/wWzX9uB.png) at https://twitter
 
 [material-palenight_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=material-palenight
 
-[default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
+[default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=CheckUP&cache_seconds=86400&theme=default
 <!--
 **djwalto/djwalto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
